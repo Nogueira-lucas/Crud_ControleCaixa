@@ -1,0 +1,15 @@
+Descrição do Negócio:
+    
+    Uma HAMBURGUERIA realiza operações de venda de seus hamburgueres. Estas operações se    definem por receber  pagamento, identificar a forma de pagamento e, por fim, registrar a venda.
+
+    Esse processo é realizado de forma simples o(a) antendente aguarda o cliente vir pagar pelo(s) pedido(s) na portaria, o cliente escolhe se vai pagar com dinheiro, crédito ou débito e paga ao atendente. 
+
+    Se a escolha for DINHEIRO, o Atendente guarda o dinheiro no caixa e anota quanto devolveu de troco.     
+
+    Se a escolha for CRÉDITO ou DEBITO, o Atendente utiliza uma maquina de cartão de crédito, conectada a conta jurudica da Hamburgueria e desconta o pagamento.
+
+    Por fim, independente da escolha de forma de pagamento, o(a) Atendente deve registrar a venda em uma planilha de excel improvisada. 
+
+    No final do mês (após 30 dias) o gestor analisa todas as planilhas e realiza a movimentação de caixa da empresa. Processo de contabilidade da empresa. 
+
+ 
