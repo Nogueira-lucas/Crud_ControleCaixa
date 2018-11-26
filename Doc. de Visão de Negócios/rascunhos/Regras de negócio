@@ -1,0 +1,12 @@
+RN1: Troco
+    O(a) Atendente deve sempre gravar o valor do troco quando a forma de pagamento envolver dinheiro.
+
+RN2: Visualização dos registros
+
+    O Gestor pode visualizar os registros a qualquer momento durante o processo de negócios.
+
+RN3: Limite de Formas de Pagamento
+    
+    O cliente pode escolher entre 3 formas de pagamento. Sendo elas : somente dinheiro, somente cartão ou cartão e dinheiro;
+
+

@@ -1,0 +1,15 @@
+REQUISITOS FUNCIONAIS
+    
+RF1: Atendente deve poder gerir os dados de vendas somente do mesmo dia.
+    
+RF2: O gestor deve poder visualizar os dados de vendas a qualquer momento durante o processo de negócios.
+    
+RF3: O sistema deve registrar vendas dividindo os dados em ciclos de 1 dia, 1 semana e 1 mês. Dessa forma vai facilitar a visualização e a gestão da informação.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF1: O sistema deve ser de baixo custo.
+RNF2: Deve ser fácil de usar.
+RNF3: O sistema deve ser seguro em termos de comprometimento dos dados e invasão.
+RNF3: Deve poder ser acessado pela internet a qualquer hora.
+
