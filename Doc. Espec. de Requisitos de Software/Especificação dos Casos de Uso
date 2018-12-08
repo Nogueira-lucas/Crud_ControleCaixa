@@ -1,0 +1,20 @@
+_______________________________________________________
+
+Caso de Uso: Gerir Atendimento
+Ator: Atendente
+Ações:
+    - Cadastrar Atendimento
+    - Editar Atendimento
+    - Excluir Atendimento
+    - Visualizar Atendimento
+_______________________________________________________
+
+Caso de Uso: Visualizar Atendimento
+Ator: Gerente
+Ações: 
+    - Gerar um relatório de todos os atendimentos
+    - Filtrar Relatório-Atendimento por data
+    - Filtrar Relatorio-Atendimento por hora
+    - Filtrar Relatório-Atendimento por Valor Total
+_______________________________________________________
+

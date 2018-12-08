@@ -1,0 +1,21 @@
+-> ETAPAS:
+* Como estabelecer comunicação com banco de dados?
+	- Java JSP
+	- Driver de conexão JDBC
+	
+-> Funções:	
+	* Conectar 
+	* SQL Query
+	* Noção de percorrimento de linhas na tabela
+
+________________________________________________________________________________	
+
+Diagrama de classes 	ok
+MER 		    	ok
+Diagrama de Caso de uso ok
+Prototipo 		ok
+Atividades		ok
+
+________________________________________________________________________________
+
+

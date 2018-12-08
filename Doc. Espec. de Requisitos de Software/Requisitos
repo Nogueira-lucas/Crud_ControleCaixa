@@ -1,6 +1,6 @@
 REQUISITOS FUNCIONAIS
     
-RF1: Atendente deve poder gerir os dados de vendas somente do mesmo dia.
+RF1: Atendente deve poder gerir os dados de vendas somente do mesmo dia que gravou a informação. Após esse prazo deverá apenas visualizar os registros de atendimento.
     
 RF2: O gestor deve poder visualizar os dados de vendas a qualquer momento durante o processo de negócios.
     
@@ -12,4 +12,4 @@ RNF1: O sistema deve ser de baixo custo.
 RNF2: Deve ser fácil de usar.
 RNF3: O sistema deve ser seguro em termos de comprometimento dos dados e invasão.
 RNF3: Deve poder ser acessado pela internet a qualquer hora.
-
+ 
